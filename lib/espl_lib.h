@@ -3,4 +3,5 @@
 
 char* num_to_words(unsigned int num);
 
+char* get_digit_word(unsigned char digit);
 #endif
